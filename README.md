@@ -1,4 +1,8 @@
 # 1.8.9-mcp
-1.8.9 mcp decompiled
-sh files might be messed up but its fine.
-I don't really know anything to type here but bye.
+In the process of adding optifine fork (WIP)
+Also this is open source.
+Why is there a issue called bruh I need help
+# how to use
+just use it?
+https://www.youtube.com/watch?v=gNBFMTE91hU&list=PLxbv-Ej1VQMQS9M2qnmEQtp-qL3xcA4ua
+follow this guide, it works i guess
