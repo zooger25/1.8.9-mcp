@@ -1,2 +1,2 @@
 # 1.8.9-mcp
-In the process of adding optifine.
+Optifine finished but might not work.
